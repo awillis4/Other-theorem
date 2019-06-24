@@ -1,0 +1,63 @@
+The datum science of infinitessimals.
+
+A funny animal, the infinitessimal, it is made up of an infinity of discretions. Its infinitestines
+
+stretch out to infinity. Ultimately, infinity is a contradiction of scale, but only at infinity.
+
+1. knowing that e=E{k->oo}(1/k!) ^ E(xi)(xi(n+1))/(xi(n)) for i=oo, 
+
+E{x}E{c}(x-c)(x-c) = E{x,c}(x-c)^2 = S{x,c}((x-c)^2)d(x,c);
+
+S|x-c|d(x,c) = lim(x->(0,oo))E{x,c}|x-c|{x,c}{(n+1)/n}.
+
+Thus for a volume of data;
+
+Mean Absolute Deviation = [S|xi-c|d(x,c)]/n
+
+Mean Squared Deviation = [S((x-c)^2)d(x,c)]/n
+
+So when given a data set as an entire object in real space, concepts in statistics still apply, or
+
+are still applicable when the discrete becomes continuous in this way.
+
+So if the data takes concrete and continuous form, such measures can be applied such as converting
+
+the measure first from discrete to continuous, in the method of converting a sum into an integral,
+
+then by applying the partial integral of the measure for the centroid and the data point.
+
+In the case that the data point is not in the position of a smooth curve, or the data set is not 
+
+continuous, as is the case with all of statistics, certain measures can be inferenced to form a 
+
+parameter of its validity. The validity of the data can be found by first sorting the data into a 
+
+smooth curve along 1 plane, where points that occupy the same coordinate are redundant, unless the
+
+frequency of each location should be considered.
+
+The sum of Squares: [S((x-m)^2)dx]/(n-1), where in this case, m=(Exi)/i = Sxdx/L(x).
+
+L=S[(1+f'f')^(1/2)]dx=[(Sx-(Sxdx/S((1+(df/dx)^2)dx)^(1/2))dx)^2]/(n-1)=Sx-Sxdx/S((1+(df/dx)^2)^(1/2)
+
+sample squared deviation is then [[[Sx-(x^2)/2S(1-f')^(1/2)]^2]/(n-1)]^(1/2),
+
+a caategorical observation: E(xi-m)^2=[Sxdx-Sx((dx)^2)/S{b-a}Srad(1-f'f')dxdx]^2
+
+=(1/2)x^2 - (x^3)/6SS{b-a}(rad(1-f'f')dxdx)=(2/3)S(f''+f'f'')^(3/2)=(2/15)(f''f''')(1+f')^(5/2)
+
+=(xx/2)[1-(5/2)(x/(f''f''')(1+f')^(5/2)] (Depending on what f is...).
+
+If a professional really wanted to indentify what the form of the curve really was, then they must 
+
+learn that: the form of the function fully depends on the slopes of the function, and E(xi-m)^2 ::
+
+Sxdx mod c, If p was a proportion of n, and m=np, S(xi-m)^2 = m(1-m/n)^2 +n-n(m/n)=m(1-m/n), where
+
+n=L(f), m=%Spdx, thus pSrad(1+f'f')dx(1-%)::Sxdx ^ %/=1; np(1-p).
+
+The sum of squares by group: E{i,j}(x-m)^2 = S[(x-m)^2]d(i,j), 
+
+=S(xx-xm+mm)d{ij}= E{ij}(x(ij)-m)^2 :E(x(ij)-m)(m(j)-m)=0, E{ij}(x(ij)-m(j))^2 + nE(m(j)-m)^2 =
+
+S[(x-m(j))^2]d(ij)+kS[(m(j)-m)^2]d(ij). 

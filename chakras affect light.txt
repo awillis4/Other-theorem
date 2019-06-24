@@ -1,0 +1,83 @@
+The Chakras of Light
+
+The earth's atmosphere is a product of all the different material on the earth. As a result, 
+
+heavier, more complex atoms will affect the light from the sun incident to the earth 
+
+in more complex ways. 
+
+The lights and colors given off by each organism and the structure that they are made out of should
+
+reflect how well their bodies are able to metabolize light. 
+
+Given I1 and I2, I can be expressed as multiple expressions of g where I=f(n)f(g), where f is the
+
+frequency of light, g is the incidence of light, and f(n) is the amplitude of light (a polynomial),
+
+g would then be a product of how fast an object was moving. 
+
+To find the speed of light with reference to some system of moving objects:
+
+1. o=(4/c-(v^2))[[((I1)^2)+((I2)^2)+2I1I2]cos(g)], where o is the opposite angle.
+
+2. ((I1)^2)+((I2)^2)=-2I1I2cos(g)
+    
+   cos(g)=-(4/c-(v)^2)[((I1)^2)+((I2)^2)/2I1I2]
+   
+   g=invsec[-((I1I2)/((I1)^2)+((I2)^2))(c-(v^2)/2)].
+   
+   notice then that g is the speed of an object moving through time. It should be with respect to 
+   
+   the velocity of the sun. Each velocity defines the characteristics of each animak, and is
+   
+   indicated by the frequency of sound given or received by each chakra.
+   
+   For this reasons, we may intriduce an arbitrary variable x where I1=(x^5)+(On^4),
+   
+   where O represents polynomial n. Thus,
+   
+   3. ((x^5)+(On^4))^2 + (I2)^2 + 2((x^5)+(On^4))(I2)cos(g)=0.
+   
+   4. g is then invsec [-((((x^5)+(On^4))I2)/(((x^5)+(On^4))^2 +(I2)^2))((c-(v^2)/2)].
+   
+   ginvcos((c-(v^2)/2)=invsec((-((x^5)+(On^4))I2)/(((x^5)+(On^4))^2 +(I2)^2), thus
+   
+   5. ginvcos(c-(v^2)/2) = invsec((I2^2)-I2).
+   
+   6. I2=(x/2)(c-(v^2))-I1.
+   
+   7. As an animal breathes air, air distorts light by the velocity of blood traveling through its
+   
+   body, therefore, blood takes the form that appears red in the body, whereas tree fluids are not.
+   
+   That is, the reason that blood in large animals employs red iron while blood in smaller animals
+   
+   may be blue, clear, or purple, is that its purpose takes the form proportional to its velocity
+   
+   of an animal at a certain volume. Tree sap barely moves through the tree, and neither does the
+   
+   tree. Its blood is of something not expecting to be red shifted through time.
+   
+   8. Although wood does not become rubbery when accelerated in a small way, [E((f^k)/k!)(x^k)],
+   
+   animal flesh becomes rubbery upon being expected to accelerate itself (still being accelerated
+   
+   through time in the polynomial way). In presence of light from the sun, as light becomes more
+   
+   condensed and solid, solids dissolve, and light passes through them as the frequencies of light
+   
+   that are smaller than the space between its structures increase.
+   
+   9. Purple light oscillates very quickly, but travels in a small distance, red light takes much 
+   
+   longer to return to its source. Therefore, as the velocity of light decreases, the different 
+   
+   lights decelerate at different rates. 
+   
+   I1-I2(dv/dt) = I1-I2(E(n^2))^(1/2) means that light refracted at an angle implies 
+   
+   I1-I2((E(n^2))^(1/2))(dv/dt).
+   
+   The different colors become more distinct as the object speed increases 
+   
+   with respect to its light source.

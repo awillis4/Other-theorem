@@ -1,0 +1,71 @@
+a note on translation by mods.
+
+This is a mathematical text. 
+
+Like any sort of grammatical text, a person nowadays should be able to 
+
+read sentences written in math like how they can read in text
+
+so that the words form in their heads and meaning forms out of those words.
+
+This text is read like a poem, the stanzas are numbered here.
+
+It is best appreciated as a visualization exercise, 
+
+and thus no pictures will be displayed here. 
+
+the difference between verbal logic and mathematical logic is 
+
+like the difference between unitary and supplementary logic,
+
+individual words decribe single things, while functions describe any such thing.
+
+also notice, numbers still dont have pronunciations.
+
+A. 11::4mod7 = 4+7, since 4-7=-3.
+
+B. 2mod7 = 7x+2, thus 2mod7x=16 if x=2
+
+C. however, the true remainder is 2/7, thus i would like to say
+
+that 16 mod 7 = 16-7x, where x=2, the remainder would be either 2 or 2/7.
+
+D. 2 is the discrete remainder, 2/7 is the continuous remainder.
+
+1. let's say a^(p-1)=((1modp)/x), a^(n-1)=((rmodn)/x), thus r=1.
+
+2. a^(n-1)=r(1)(x/n)->na^(n-1)=r(1)*x->a^n=[r-1]*x
+
+3. (2^3)::1mod4, (2^4)::1mod5, :: a^(n-1)=x+(r/n).
+
+4. (rmodn)/x = x+(r/n) = (nx+r)/n, nr(modn)/x = nx+r
+
+5. nrmodn=x(nx+r)=n(x^2)+rx, nr(modn)-r=nx.
+
+6. modn=(n(x^2)+rx)/nr = (x^2)/r +(x/n), n(x^2)+rx = x(nx+r)
+
+7. nmodn=x((nx/r)+1)=0modn and nx.
+
+7a. note, a and b implies either a or b.
+
+8. modn = (x/n)((nx/r)+1), rmodn=(x/n)(nx+r), modn=(x/nr)(nx+r)
+
+9. nrmodn=x(nx+r)=n(x^2)+rx.
+
+10. n=((nx+r)/modn)(x/r)=((nx+r)/(nx+r))(x/r)(rn/x).
+
+to close:
+
+11. a^(p-1)::(1modp)::(px+1)(x/p)::(x/p)(px+1)::x(x+(1/p))=(x^2)+(x/p).
+
+12. xa^(p-1)::x+(1/p), xa^(p-1)-x::(1/p), (xa^p)-xp::1, px((a^(p-1))-1)/::1.
+
+13. a^(p-1)::(x^2)+xp::(a^p)/a. 
+
+14. a!^p::-1modp::-(px-1)(x/p), a!::-(px-1)(x/p)(p^(p-1)).
+
+15. a=(=)a^(p-(p-1))=(a^p)/a^(p-1)::(xp^(p-1))(x+(1/p))
+
+= (x^2)(p^(p-1))+(xp^(p-2)), (x^(3-1))(p^(p-1))+(x^(3-2))(p^(p-2)).
+
+16. If you dont see anything in front of the mod, this is 0modn. 

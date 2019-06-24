@@ -1,0 +1,13 @@
+Interesting note
+
+finding S (arcsinx)^2 dx:
+
+1. notice that we already know the derivative of arcsin which is (1-(x^2))^(-1/2).
+
+to integrate, u=(1-(x^2)) and du=2xdx; so arcsin'x = (1/2)(1-(x^2))^(-1).
+
+thus, arcsinx=(1/2)ln(1-(x^2)+C.
+
+2. Thus, (1/4)S(1-x^2)^-2 du = (1/4)S[(1-(x^2))(1-(x^2))]^-1 du = 
+
+(1/4)S(1-(2x^2)+(x^4))^(-1)du = (ln(1-(2x^2)+(x^4)))/(-x+(3x^2)/4) 

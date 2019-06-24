@@ -1,0 +1,66 @@
+﻿inductional geometry by armani willis 6'13
+
+given the tracing of a function on the cartesian plane, we see that the tracing itself is a product
+of the axis being dependant onto the ordinate, where y=f(x).
+y is the product of some function of x. of course, this is incorrect for many different reasons.
+
+reason #1 is the fact that y is a function of x where y being a function, while x is a variable 
+implies that y maintains a direct dependence on x whereas this relationship does not exist in the 
+reverse. y=f(x), x=f*-(y) 
+
+reason #2 x is inclusive on all y, but for all real, positive integers, y is not inclusive on all x 
+included on any y. this means that all functions are irreversible. f*-(-y)=/-x
+
+reason #3 is that since the relationships given on the cartesian plane implies direct and constant 
+correlation of x to y with no reverse conditions. this implies that only for  real and positive 
+integers can x support y, even though x itself can be negated. f(x)=x^(+/-1/2)=/*;(x<0)
+
+read: f of x raised to positive or negative one half is not for when x is less than zero.
+
+reason #4 since this graph cannot account for non real values, where adding a nonreal component to 
+x will create a set of x,y values, we can say that there can be no correlation beyond real values.
+(-x^(1/2)=/xi
+
+reason #5 since real values are all compound onto non real components where i^2=-1, then all 
+relations between x and y are null and void since non reversability implies disjoint continuity, 
+where x cannot be related to y since it cannot be related to itself through y,xi. 
+
+reason #6 the coordinate system x,y is a continuous disjoint discontinuity where the coincidence 
+exampled by comparing y to only one constituent x implies that y is perfectly dependent on x, and
+this is impossible since x is not reversely coordinated onto y. xi^4=/x^2
+ 
+for example, if i eat a plant, i cannot return the plant to its original function, but in some way,
+me having the plant to eat in the first place is implicit on the planet having the means to form
+without my knowledge or influence. i myself can be made up of plants, but i myself am not a plant.
+
+reason #7 by clause of orthogonality, cartesian space is an imaginary space by definition since it 
+does not fulfill the criteria for real form. real from must be fully orthogonal to itself, and thus
+since 3d cartesian space is not a true measure between y and x, then there cannot be a real measure 
+of any vector quantity over z. 
+
+reason #8 the relationships of x,y where y is dependent of x as a function of x also requires no
+representation over z where there can be no z function to describe x,y. 
+
+reason #9 this is impossible for reason #6 and for the reason that since x,y cannot maintain 
+orthogonality, since there is no relationship over the z or zi plane.
+
+solutions: a new graph system that incorporates previously developed coordinate systems in order to 
+solve that problems maintained within all of them.
+
+cartesian: xy=xf(x)
+polar: xy=p(t) 
+
+p is the plane wherof t is dependant. on this plane, there is no measure of one arbitrary side to 
+the other. 
+
+rather, the field xy radiates evenly from divergence point z, which is a straight line orthogonal to
+the plane xy. 
+
+this is due to the fact that 2 orthogonal circles of measure will interfere with each other. 
+
+the divergence occurs in the manner t=rsin{}, where x and y are functions of t, and the function t 
+is enabled on z. 
+
+this method is called coincidental space, where rather than one axes being dependent onto the other,
+the 2 axes form the arbitrary function zi(t), where t itself is rsin{}. all functions can this way 
+be expressed in their truest form.

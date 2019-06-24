@@ -1,0 +1,52 @@
+﻿force and weight
+
+given: E=mc^2, F=ma
+
+m=mass, c=186,282.264 miles per second, a=acceleration.
+
+(d/dt)=nx^(n-1), a=dv/dt, v=dd/dt, d=dp/dt,
+
+E=mv^2, EF=a(mda/dt)^2), Sf(x)dx=(d/dt)^-1)=(x^(n+1))/(n+1), SF=Sma=mSa=mv, E=mvv=vSFdt
+
+this is the direct translation from latent energy into a force.
+
+given a certain body of force, one can deduce the energy, where (E>=<F)/v, and so v=(E>-<F) at any t.
+
+if F=g, then the energy on a particle involves the velocity of an object while it is being affected by gravity.
+
+E=vSgdt, mv=-nx. when gravity is -nx, then -nx^2)=dE/dt, oscillation occurs when sin(t+b)=cos(t2-t1), when b=pi/4, sin(t+b)=cos(t), 
+
+sin(t2+t1)=cos(t2-t1), E=-vsinb. when t=0, E=vx, and when v=c, E is the maximum possible for any velocity.
+
+q=mv, when q=sinb, v=(sinb)/m, b=(cscv)/m, d/dt((cscv)/m)=-dsec(v/m), E=vsint-dsec(v/m)=1-(v2/v1). thus, c=(mc^2)/m)^(1/2) = c.
+
+according to this, the speed of gravity results in g=F, v=(E/m)^(1/2) = qm^-1.
+
+the length of orbit v=gcosv, maximum speed of orbit is (m2-m1)(cosv)/r^2, g increases by cosv/r^2 as d decreases.
+
+(what is hair? = hair=/whst, hair=long strands of keratin)
+
+addendum: 4.23.4.16, postulated 9.26.4.13
+
+what is the reason behind force and weight?
+
+Albert einstein said that when a particle approaches the speed of light, its mass approaches infinity.
+
+Why then is light not very heavy?
+
+Light is not very heavy since as a particle, it does not have much charge. as such, it cannot accumulate much mass, thus when it accelerates out to infinity, it does not warp time. charge then seems to be the compression of time about an object such that something becomes attracted to it.
+
+in another of my works discussing logic, where i said that tautology causes a shape to become more definite, the volume of a tautology becomes contracted with respect to another object, since they contradict each other. The velocity of which should be proportional to phi.
+
+given that, three phi planes of the real axis should accelerate to 4 planes of the i axis. a contradiction should occur when this system is undefined over a specific volume.
+
+to construct this, first let us understand the simple structure of a cube, where the 3 orthogonal axes form parallel lines with each other.
+
+how does nature construct a perfect cube? how would a perfect cube be procedurally constructed with any programming code?
+
+in order for a cube to be procedurally generated, 4 lines must be connected to each other at 90 degrees, then each connection must have another line
+of the same length connected to another panel of parallel lines as far from it as each line is from each parallel line.
+
+for each 14 axes, 4 phi spirals are inserted so that all spirals of the same axis are 90* from each other, and each 90* spiral is in reverse from the previous spiral.
+
+given that, the particle that operates this way should cancel itself out and have no presence in time, whereas a system with all phi circles spinning in the same direction would have the highest charge.

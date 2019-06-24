@@ -1,0 +1,67 @@
+The reversibility of vectors
+
+V=(4pi/3)(dx+dy+dz)^2=ds/dt. (dx+dy+dz)=r.
+
+s=(4pi/3)S((dx+dy+dz)^2)dt = (4pit/3)(dx+dy+dz)^2.
+
+(dx+dy+dz)=rad(3s/4pit);(x+y+z)^2^1/2=((3s/4pi)(1-(4/t)))^1/2.
+
+t=(((x+y+z)rad(4pi/3s)-1)/2)^2.
+
+Finding the inverse of a differential function.
+
+Given dx/dt=(xx-1)^2, x=(1/(1-t))^(1/2).
+
+S(xx-1)^(-1/2)dx=t=4x*(xx-1)^(1/2).
+
+|- dt/dx=(2x)(xx-1)^(-1/2)+4(xx-1)^(1/2)=2(x(xx-1)^(-1/2) + 2(xx-1)^(1/2)).
+
+Given a function of continuous slope, the inverse of a derivative requires a dynamic solvent.
+
+Logically, dx/dt=f implies: 1. dx=fdt, 2. x=Sfdt, 3. Sdx/f=t, 4. dt/dx=dS(1/f)dx/dx, 
+
+5. Since S(1/f)dx=ln|f|du, 6. d(ln|f|)=1/f, 7. dt/dx=1/f, root(xx+0x-1)=((0+-2)/2)=+-1.
+
+8. (dx/dt)(dt/dx)=[(xx-1)^(1/2)]*2(x(xx-1)^(1/2))+2(xx-1)^(1/2))=(x+2)(x+1)(x-1)=1.
+
+9. Given -dx/dt=+-(xx-1)^(1/2), tE[1,2;-1,-2]:+-(dxdt/dtdx), (dx/dt,dt/dx)[1,2;-1,-2]^-1=(dt,dx).
+
+10. (e^(-st))[1,2;-1,-2] = x'''+2x''+x'-2x = k1((e^t)+(e^2t))+k2((e^-t)+(e^-2t)): k1=k2.
+
+This matrix is time reversible since [][]^-1=1 and it is time reversible by d(x,t) only.
+
+Time when treated in a relative sense is not subject to the forward laws of motion, there is no that
+
+has no time reversibility, the reversibility of time is a process that produces the inversion of and
+
+shape. For instance: Given the differential system: Water spout into a cup: There implies that there
+
+is some mechanism that can reverse this mechanism and eject water from a bowl into a reservoir.
+
+This is called convergence of time reversibility. For a generalized circumstance:
+
+11. Given t=S[(xx-1)^(-1/2)]dx, t=[4x(xx-1)^(1/2)]+C.
+
+c is a weird function, because it represents the probability density of a function in occurance.
+
+(dt/dx)=(xx-1)^(-1/2)=2(x(xx-1)^(-1/2))+4(xx-1)^(1/2)(+dc/dx=0).
+
+g(xx-1)^(1/2)=dt/dx ; t/dt=4x(xx-1). g/dt=dt/dx, g=dtdt/dx, g/dtdt=1.
+
+--
+
+given that t=S[(cc-1)^(-1/2)]dc = 4c(cc-1)^(1/2)+c, we know that c is still added to f(c), and
+
+2((c+2(cc-1)+((cc-1)^(1/2))(dc/dt))=1, dcdc/dtdt=c(cc-1)^(-1/2). Thus g(dcdc/dtdt) where c=(x+h).
+
+12. [dcdt/dtdc]=1 provides the null vector for the commutationality of a force as an object in 
+
+space. It provides statical reasom for an object to exist and can explain motion through time as added
+
+physical shape.
+
+13. Given dy/dx(n+1)=C(n);neR,(dc/[dt(n+h1)])(dc/[dt(n+h2)])=1 means that there is no event that is
+
+not somehow time reversible, complexity (d^n)(x) makes reversibility more difficult to notice as n 
+
+increases. 

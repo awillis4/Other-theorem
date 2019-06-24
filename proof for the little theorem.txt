@@ -1,0 +1,27 @@
+The proof for fermat's little theorem
+
+Suppose p is prime and not divisible by a. 
+
+p/|a
+
+3/2 is not an integer.
+
+howver, 2*2=4, 4/3 leaves remainer 1, and 2*2*2=8, and 8/3 leaves r=2.
+
+thus a^(p-1) assumes 1 (mod p) for all a and for all p.
+
+given 3^100,000 / 53, 3^52 assumes 1 mod 53.
+
+100000/53 = 1923 + r = 4, thus,
+
+(3^52)^1923 = 3^99996 and assumes 1^1923 mod 53.
+
+(3^4)(3^99996)=(3^100000) and assumes (3^4) mod 53,
+
+3^100000 assumes 81 or 28 mod 53, since (3^4)=81, & 81-53=28.
+
+since a^(p-1) assumes 1 mod p, 
+
+and ca and a^d times a^(p-1) assumes 1 mod p,
+
+then we can assume that ac, a^d, or (p-1)! assumes a^(p-1)mod p, or 1 mod p. 

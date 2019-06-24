@@ -1,0 +1,59 @@
+﻿proof of the natural iteration of the natural logarithm by armani willis.
+
+#1. given, d/dx 1/cscu = -sinsin coscot uu',
+
+sinsinsec uu' d/dx sin u = -sinsincsccot uu'.
+
+sinsincsccot = sincot = sin/cos/1/sin = sec, -d/dx sinu = u'/sinu ?
+
+-(1/sinsin)(1/sin)(cos/sin)=(-cos/sin^4(u))=-cos(csc^4(u)).
+
+#2. algebraically, cosu = -u'|u|((u^2)-1)^(-1/2) = (1-(u^2))^(1/2).
+
+-|u|u'=[(1-(u^2))((u^2)-1)]^(1/2) = -((u^4)-1)
+
+Su'du = u = ((u^4)+1)/|u| = (((u^5)/5)+u)(ln|u|)
+
+u(5/(u^5))-(1/u) = 5/(u^4)-1 = 1/(ln|u|), ln|u|= 5/u^4 = -1.
+
+by now you may be asking about the conceptual error. how can u be the fifth integral of itself?
+
+#3. |u|cosu = -u'((u^2)-1)^(1/2) = |u|(1-(u^2))^(1/2).
+
+since (1-(u^2))/((u^2)-1) = -1/u'|u|, ((-u^4)+2(u^2)-1)/((u^4)-2(u^2)+1) = -1 (expand the terms).
+
+#4. S(1-(x^2)^(1/2)dx = sin.
+
+-Su'[|u|((u^2)-1)^(1/2)]^-1 = -uln[|u|((u^2)-1)^(1/2)]
+
+-uln[|u|((u^2)-1)^(1/2)] = (2/3)(1-(u^2))^(3/2)
+
+ln[|u|((u^2)-1)^(1/2)] = -(2/2u)(1-(u^2))^(3/2)
+
+[|u|((u^2)-1)^(1/2)] = (e^(-2(1-(u^2))^-(3/2)))-e^3u
+
+Ssecu=lncosu+c=(1/2)ln//(1-(x^2)-seccotx)
+
+as you can see, all equations dealing with u have equivalent e and sin notations.
+
+#5. placing a triangle onto the plane, you could notice that h=[(u^2)(1-u)^2)]^(1/2)
+
+differentiating, we can take the resultant of the triangle and say that 
+
+since Sxdx = (x^(n+1))/(n+1), S(1/x)dx = (x^(-1+1))/(-1+1) = (x^0)/0. 
+
+as n approaches 0, {S(1/x)dx = e inverse of x, thus, lnf(x)=S(f^-1)x, or (F^-1).
+
+therefore, ln(x^n)=(x^(-n+1)/(-n+1)), and e(x^n) = =n(x^(-n-1)). dS/dx = x = n[x^(n+1))/(n-1)]^(n+1).
+
+since lnu=S(1/u)du, ln(e^-x)=-u/u'. thus S(u'/u)=-u/u'du. S(1/x)dx=(ln^2)(e^x)
+
+now, since lnu = S(u'/u)dx, u=(e^lnu) = (e^S(u'/u)dx, therefore, u=e^(uS(1/e^uSe^uS...) onward. u=e^(uS(1/e^(uSe^>=<uSe))). 
+
+no dx, since dx goes to 1 as ^e goes to infinity. this condition is called the willis fractal.
+
+it is the most rudimentary basis of all fractals as well as the standard geometric shapes.
+
+with this concept, all standard geometric shapes can be understood as fractals, and thus, 
+
+fractals can be analysed for their constituent geometric construct. 

@@ -1,0 +1,7 @@
+The learning wave.
+
+When does training or practice become an oscillation?
+
+To find out, we play around with plotting 2 states of y 
+
+where y transforms between 2 different functions.

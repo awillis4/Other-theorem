@@ -1,0 +1,44 @@
+Parametrizing the incidence of wavelengths of light
+                              armani willis 6.12.7.16
+							  
+This is for the purpose of finding the change of wavelength of light for a body in motion from multiple perspectives.
+							 
+1. Given: (4/(c-v^2))[I1^2 + I2^2 + 2I1I2]cos(a) =0
+
+2. I1^2+I2^2 = -2*I1I2cosa, cosa=[(-I1^2+I2^2)/(2I1I2)](4/(c-v^2))
+
+3. a=-[sec^(-1)]*[(I1I2)/(I1^2+I2^2)][(c-v^2)/2]
+
+v(light)=(1.003)cm/s, 360*/de*(1/1.003)dv/dt,
+
+1. 360*dv/(1.003)(de-ds)(c^2 - v^2)^(1/2)dt = Ldt, v=dV/dt,
+
+2. for dV/dt + Ldt(c-200)^(1/2)m/s, udx=68,000m/s^2, or 1000ds(m/s^3).
+
+1. t2 = I2/(c+v) + I2/(c-v) = I2[((c+v)+(c-v))/((c+v)(c-v))]
+
+= 2cI2/(c^2 - v^2) = 2I2/c(1-(v^2/c^2)).
+
+calculating I1 with respect to I2.
+
+1. for t1, t1 = 2I1/c(1-(v^2/c^2))^(1/2). 
+
+dt-dt' = -2(c^2/v^2).
+
+2. given: I1=O^5, (O^5)^2 + I2 + 2(O^5)I2cosa=0.
+
+3. a=arcsec((-(O^5)I2)/((O^5)+(I2^2)))*(c-v^2)/2.
+
+aarccos((c-v^2)/2)=arcsec((-O^5)I2/(((O^5)(I2))^2)).
+
+4. aarccos((c-v^2)/2)+(I2^2/arcsec(O^5))=arcsec(-I2),
+
+aarccos((c-v^2)/2)=arcsec[-I2 - (I2^2)/(o^5)]
+
+5. asrccos((c-v^2)/2(O^5))=arcsec(I2^2 - I2)
+
+(2/c-v^2)(O^5 - I2)=0, so -I2=O^5.
+
+If (2/c-v^2)(O^5 + I2)=x,
+
+1. 2(O^5)/(c-v^2)=-(2xI2/c-v^2), I2=((x/2)(c-v^2))-(O^5)

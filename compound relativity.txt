@@ -1,0 +1,55 @@
+A Note on Compound Relativity by Armani Willis 1.2.2.18 Recorded to Computer
+
+given that y=[1-(v/c)^2]^-(1/2), J=1-(v/c)^2. J-1=(v/c)^2, (c/v)(J-1)=1. 
+
+y^-2=[1-(v/c)^2], (y^-2)-1=(v/c)^2. J=y^-2, 0=-(v/c)^2. 1=1+(v/c)^2=cc+(vv/cccc)-(vv/cc)=0.
+
+c^-2=1+(v/c^2)^2, -v^2=0*c^2, (-v^2)/0=c^2. This occurrence in the algebra is not negligable, 
+
+it may serve as a coincidence with an imaginary v still coinciding with a real c, where velocity in
+
+on direction is still a time dampening on the other direction.
+
+(J-1)(c/v)^2 = (1/J)(1-(v/c)^2), J(J-1)(c/v)^2 = (1-(v/c)^2). J(J-1)=((v/c)^2)(1-(v/c)^2). 
+
+Compound Relativity.
+
+SJ^2 -JdJ=(J^3)/3-(J^2)/2=(J^2)((J/3)-(1/2); S((v/c)^2)*(1-(v/c)^2)dv=v((v^2)/3cc)*(1-(v^2)/3cc).
+
+JdJ((dJ/3)-(1/2))=dv(vdv/3cc)*(1-(vdv)/3cc); dJ/dv=(vdv/cc)(1-(vdv)/cc)/J((dJ)-(3/2)).
+
+J=(vv/cc)(1-(vv/cc))/J(J-(3/2)): JJ(J-(3/2))=(vv/cc)(1-(vv/cc)). -J(J-(3/2))=-(v/c)^2, 
+
+-J(J-(3/2)+1)=1-(v/c)^2, -(J-(3/2)+1)=-J+(1/2)=1, J=-1/2 
+
+The inextricable relation between J and y apparantly reduces J to a constant. 
+
+Given that J has this parameter, and that c is constant given variable v, where c=v+h and h is not
+
+constant, J is still a constant like c, the variable v is canceled by constant J.
+
+The compounded relativity equation then becomes J+(v/c)^2=1, J+(vv/cc)=1, 
+
+1-(vv/cc)=-(1/2), vv=(3/2)cc. 
+
+I also wanted to dentify the difference between null and zero. 
+
+usually, (0/x)=0, while (x/0)=und,null,/0,{}, which are all equivalent, but not zero or any x.
+
+Premise 1. (x/0)(5/7)=(5x/0*7)=5x/0={}.
+
+Premise 2. (x/0)(0/y)=(x/y). Logically, 0=(0/c), multiplying a by c and dividing b by c should 
+
+cancel to get a/b if a=v1/0 and b=0/v2. Thus, there is a way to return a value out of a null space.
+
+Given a set of values: {1,2,3,4,{}}, This can be rewritten as {1,2,3,4,(x/0)}(0/x) to get:
+
+{1*0/x,2*0/x,3*0/x,4*0/x,1} Thus, the value null must be elavated into a new layer of x through a 
+
+new dimension y, and when a graph produces an undefined, the undefined can be expressed in a new 
+
+axis orthogonal to the original graph. 
+
+Thus when you have a graph (x-2)(x-2)/(x-2)(x-3) is 1/(x-3) for all values except x=2, Thus the
+
+graph could be interpreted as dydx/(x-3) + dz/(2-3).

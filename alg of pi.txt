@@ -1,0 +1,69 @@
+Simplifying the notation of the algebraic function of the equivalent of pi using calculus. 
+
+A. Willis 12.17
+
+It was said before that pi=4[E(-1)^k]/(2k+1). pi=4E[((-1)^k)/(2k+1)], (pi/4)=S[((-1)^k)/(2k+1)]dk.
+
+piS(2k+1)dk=4S[(-1)^k]dk. How do we properly integrate (-1)^k?
+
+Notice: (-1)^2k=1, [(-1)^(2k+1)]=-1. [(-1)^(2k+1)]=[(-1)*(-1)^2k]. -1/1=-1.
+
+Thus, as k --> oo, (-1)^1 = -1. For (-1)^k; dk/dt=(-1)^k, k*ln(-1)=ln(dk/dt).
+
+dk/-1=(dt/dk), dk=-dt/dk, -dt=(dk)^2, -S(dk/dt)dk=-S(1/dt)dkdk=-kSdk=-k^2.
+
+(pi/4)S(2k+1)dk=S((-1)^k)dk. (pi/4)(k(k+1))=S((-1)^k)dk. Lets attempt the unsheath technique.
+
+(pi/4)(2k+1)=(-1^k); ln[(pi/4)(2k+1)]=k*ln(-1).
+
+dy/dt=k, dy=kdt, Sdy=Skdt, y=kt, S(1/k)dy=Sdt, y/k=t, y=kt.
+
+y=t-kt, y=t(1-k). dy/dt=t(1-k), dy/(1-k)=tdt. yln(1-k)=t^2/2, k=-(e^(tt/2y))-1.
+
+(pi/4)(dk/dt)=(-1^k)/(2k+1). (pi/4)(2k+1)dk=(-1^k)dt. (pi/4)k(k+1)=t(-1^k). (-1^k)=(kpi/4t)(k+1).
+
+kln(-1)=ln[(pi/4)(k/t)(k+1)], -e^k=(pi/4)(k/t)(k+1): S[(-1)^k]dk=-k(e^k) (Since t=(S/E)dt).
+
+Therefore, pi=4S(ke^k)/(2k+1)dk=[4Ske^kdk]/[S(2k+1)dk].
+
+(pi/4)=(e^k)/k(k+1); k(k+1)=(4e^k)/pi, piEk=8e^k, pi/8=(e^k)/Ek.
+
+ln(pi/4)=k*ln(k(k+1)), 1/k=ln(k(k+1))/ln(pi/4), dk=(pi/4k(k+1)),
+
+(pi/4)S(e^-k)dk=S1/k(k+1)dk, -pi/4(e^k)=(2k+1)ln(k(k+1), (pi/4[3(k+1)(e^k))=1/(k(k+1)),
+
+k(k+1)pi/4[3(k+1)e^k]=1, kpi/4(3e^k)=1, pik=12e^k, k=ln(pik/12).
+
+thus, (pi/4)ln[k(k+1)]=ln(pik/12), pi/4k(k+1)=12/pik, 1/4k(k+1)=12/k, 1=48(k+1),k=-47/48...
+
+pi/4k(k+1)+ln(pik/12)=k+dk.
+
+Mathematical works are much more condensed than any other art form, requiring intrinsic deductive
+
+reasoning just to get across 1 line. in the 4 points that have been covered in line 21, simple
+
+translations of functions required an understanding of differential equations. The sentences in math
+
+are much shorter than in any other language, with letters for words and no spaces between them,
+
+reading a sentence in math is like reading that much the difference in length times the length of
+
+the sentence written in a current spoken language. Even the poets cannot truncate their speech 
+
+enough to fit their reasonings into the form of single letter representation. 
+
+For this reason, I see that maths is incomplete as a language, having syntax, grammar, and notation,
+
+but no dialect, the letters used to represent things in math should be pronounced as they appear in
+
+their original language, with breaks to pronounce the logical operands. You should find that the 
+
+time it takes to read out a math sentence is the same time it takes to read in english.
+
+And if I could put these sentences to music, it could help to visualise these streams of functions
+
+better.
+
+after much more calculation than what was presented here, i can show that pi=8(e^k)/Ek.
+
+ 
